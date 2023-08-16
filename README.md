@@ -36,14 +36,14 @@ Based on various meteorological surveys and people's styles, the service provide
 - Data Cleaning
 - Exploratory Data Analysis(EDA)
 
->  Univariate Analysis.
+>  Univariate Analysis,
 >  Bivariate Analysis.
 
 - Machine Learning Model
 
-> Feature Selection (Using P-Value Method).
-> Train Test Split.
-> Training the model.
+> Feature Selection (Using P-Value Method),
+> Train Test Split,
+> Training the model,
 > Residual analysis(error)-   Residual analysis(error).
 
 - Conclusion
