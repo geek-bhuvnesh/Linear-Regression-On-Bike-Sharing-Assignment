@@ -34,18 +34,22 @@ Based on various meteorological surveys and people's styles, the service provide
 
 - Data Understanding
 - Data Cleaning
-- Exploratory DataAnalysis
->  Univariate Analysis
->  Bivariate Analysis 
+- Exploratory Data Analysis(EDA)
+
+>  Univariate Analysis.
+>  Bivariate Analysis.
+
 - Machine Learning Model
-> Feature Selection (Using P-Value Method)
-> Train Test Split
-> Training the model
-> Residual analysis(error)-   Residual analysis(error)
+
+> Feature Selection (Using P-Value Method).
+> Train Test Split.
+> Training the model.
+> Residual analysis(error)-   Residual analysis(error).
+
 - Conclusion
 
 
-## Conclusions
+## Conclusion(Inferences):
 - It has been oberved that there is no null values in provided day data 
 - Number of bikes rented in 2019 increased by 65% compared to the year 2018, which is a positive sign for any business on a year-over-year basis*
 - Highest bike rented on Friday
